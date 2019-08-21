@@ -13,7 +13,7 @@ Generate YAML files from rows inside a CSV
 ## Notes
 - A sample `data.csv` file has been included for testing.
 - Make sure the first row contains the column headings as this will be used in your yaml.
-- The last cell in your `.yaml` will be used as the filename and also be included in the yaml data.
+- The last cell in your `.csv` row will be used as the filename and also be included in the yaml data.
 
 ### Credits
 Credits go to [hfionte](https://github.com/hfionte/csv_to_yaml) for the original script.
